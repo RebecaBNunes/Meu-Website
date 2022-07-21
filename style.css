@@ -11,7 +11,7 @@ body {
 }
 
 .header {
-    background-image: url(code.jpg);
+    background-image: url(imagens/code.jpg);
     padding: 15px;
     border: 0;
     margin-bottom: 15px;
@@ -24,6 +24,8 @@ body {
 #title {
     font-size: 40px;
     text-transform: uppercase;
+    margin: 0;
+    margin-bottom: 15px;
 }
 
 a {
@@ -83,13 +85,13 @@ p {
 }
 
 .Email {
-    list-style-image: url(Gmail-Logo.png);
+    list-style-image: url(imagens/Gmail-Logo.png);
 }
 
 .linkedin {
-    list-style-image: url(linkedin.png);
+    list-style-image: url(imagens/linkedin.png);
 }
 
 .git {
-    list-style-image: url(git.png)
+    list-style-image: url(imagens/git.png)
 }
